@@ -1,8 +1,8 @@
 # pyPlAn
 python based Ploter of annotation files
-you can download the executable version frome (https://sourceforge.net/projects/pyplan-project/)
+Download the executable version from : https://sourceforge.net/projects/pyplan-project/
 
-you can contact the developer :
+You can contact the developer :
   idrissi.azami.abdellah@gmail.com
 
 usage: pyLAn [-h] -I INPUT -O OUTDIR [-V]
